@@ -1,6 +1,7 @@
 # Python Script for Dice Simulator: Intentionally re-invent
 # Author: Vignesh Narasimhulu
 
+#use time to determine outcome of the roll
 import time
 
 #get current time
