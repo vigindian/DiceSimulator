@@ -1,3 +1,3 @@
-#Dice Simulator
+# Dice Simulator
 
 Author: Vignesh Narasimhulu
