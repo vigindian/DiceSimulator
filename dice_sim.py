@@ -10,7 +10,7 @@ now=str(time.time())
 #get last element
 lucky=now[-1]
 
-#Function: returns 
+#Function: returns number if matches with last digit of time or 0 if no match found
 def dice(x):
     #convert input to string, for comparison
     y=str(x)
